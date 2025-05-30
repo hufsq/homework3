@@ -99,6 +99,6 @@ classifier.predict('test_mail.txt')
     垃圾邮件     0.9608    0.9730    0.9669       127
 ```
 # 运行结果展示
-![屏幕截图 2025-04-01 204021](https://github.com/user-attachments/assets/c3a166b8-26a3-4fc3-8e9b-fe4b752946b0)
+![屏幕截图 2025-04-01 204021](https://github.com/hufsq/homework3/blob/main/11.jpg)
 
 
